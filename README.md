@@ -10,4 +10,4 @@ This module is for generative art inspired by falling leaves. Using triangles to
 Here is a video displaying the module in action on an ESP32 TTGO T-display.
 
 # Usage
-All files can be found in the folder "mod1", standing for Module 1. This module requires an ESP32-compatible display connected to any device that can use an Arduino driver.
+All files can be found in the folder "mod1", standing for Module 1. This module requires an ESP32-compatible display connected to any device that can use an Arduino driver. Connect your display to your device, verify, and upload the sketch to the display. 
